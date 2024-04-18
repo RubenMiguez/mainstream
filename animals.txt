@@ -1,4 +1,4 @@
-lion
-tiger verde
-leopard azul
-turtle
+lion orange + lion
+tiger orange + tiger verde
+leopard orange + leopard azul
+turtle orange + turtle
